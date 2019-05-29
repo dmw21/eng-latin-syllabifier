@@ -1,0 +1,2 @@
+{o: empty, n: EH [st:0 ln:short], c: empty}
+{o: S T R , n: EY [st:1 ln:long], c: N JH D }
