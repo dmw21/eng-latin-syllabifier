@@ -79,4 +79,4 @@ def e_syllabifier_line_numbers(passage):
         lineNumber += 1
     return output
 
-list_lister(e_syllabifier_line_numbers(passage))
+#list_lister(e_syllabifier_line_numbers(passage))
